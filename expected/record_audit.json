@@ -1,0 +1,9 @@
+{
+  "profile_jobs": 240,
+  "live_episodes": 60,
+  "live_transitions_checked": 36000,
+  "max_transition_error": 0.0,
+  "max_x_including_terminal": 0.9429849117186219,
+  "max_recoverability_including_terminal": 0.9874193630075605,
+  "frozen_input_hashes_checked": 11
+}

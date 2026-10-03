@@ -1,0 +1,16 @@
+{
+  "water": {
+    "validated_cases": 4798,
+    "positive_lease_cases": 4758,
+    "max_recoverability": 0.9989854721462125,
+    "lease_compute_us_median": 51.083,
+    "lease_compute_us_p95": 58.631149999999984
+  },
+  "thermal": {
+    "validated_cases": 4568,
+    "positive_lease_cases": 4561,
+    "max_recoverability": 0.9961452459656177,
+    "lease_compute_us_median": 50.417,
+    "lease_compute_us_p95": 57.0
+  }
+}

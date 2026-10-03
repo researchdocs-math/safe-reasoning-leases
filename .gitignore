@@ -1,0 +1,10 @@
+.venv/
+.cache/
+models/
+__pycache__/
+*.pyc
+.DS_Store
+results/*.csv
+results/summary.json
+results/*_protocol.json
+results/certificate_checks.json

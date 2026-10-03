@@ -1,0 +1,20 @@
+{
+  "test_episodes": 12000,
+  "violating_episodes": 0,
+  "max_recoverability": 0.993130790122,
+  "per_cell_zero_failure_upper95": 0.029513049607039932,
+  "profile_jobs": 240,
+  "live_episodes": 60,
+  "live_violation_steps": 0,
+  "live_jitter_p99_range_ms": [
+    0.8813866792479524,
+    3.3542261572438283
+  ],
+  "live_max_recoverability": 0.9874193630075605,
+  "live_job_outcomes": {
+    "applied": 215,
+    "obsolete": 130,
+    "censored": 60,
+    "timeout": 12
+  }
+}

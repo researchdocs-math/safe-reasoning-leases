@@ -1,0 +1,13 @@
+{
+  "python": "3.12.1 (v3.12.1:2305ca5144, Dec  7 2023, 17:23:38) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "platform": "macOS-14.8.1-arm64-arm-64bit",
+  "mlx": "0.32.3",
+  "hardware": {
+    "device_name": "Apple M3 Pro",
+    "max_recommended_working_set_size": 12884918272,
+    "memory_size": 19327352832,
+    "architecture": "applegpu_g15s",
+    "max_buffer_length": 9663676416,
+    "resource_limit": 499000
+  }
+}

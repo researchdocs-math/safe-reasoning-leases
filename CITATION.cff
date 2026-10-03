@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this software using the metadata in this file."
+title: "Safe Reasoning Leases: Reproducible Edge-Agent Experiments"
+type: software
+version: 1.0.0
+date-released: "2026-10-03"
+license: MIT
+abstract: "Measured local-agent inference, recoverability certificates, and paired scheduling experiments for positive storage systems."
+keywords:
+  - edge agents
+  - runtime assurance
+  - inference latency
+  - reproducible experiments
+authors:
+  - name: Anonymous research contributors
